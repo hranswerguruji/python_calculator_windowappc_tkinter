@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a77820c-86cb-45fe-b429-d14304f4e258" name="Changes" comment="Initial commit of calculator program">
+    <list default="true" id="7a77820c-86cb-45fe-b429-d14304f4e258" name="Changes" comment="Change for&#10;1. Setting title&#10;2. Setting width and height">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -68,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1716696811084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change for&#10;1. Setting title&#10;2. Setting width and height">
+      <option name="closed" value="true" />
+      <created>1716697125944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716697125944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of calculator program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of calculator program" />
+    <MESSAGE value="Change for&#10;1. Setting title&#10;2. Setting width and height" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change for&#10;1. Setting title&#10;2. Setting width and height" />
   </component>
 </project>
