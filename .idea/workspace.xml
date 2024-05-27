@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a77820c-86cb-45fe-b429-d14304f4e258" name="Changes" comment="Change for:&#10;**kwargs: Many keyword arguments">
-      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+    <list default="true" id="7a77820c-86cb-45fe-b429-d14304f4e258" name="Changes" comment="Change for:&#10;**kwargs: Many keyword arguments&#10;multiple inputs in class">
+      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,9 @@
     &quot;accountId&quot;: &quot;c88542de-534f-403b-b23c-bb6bae32fd5a&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Calculator.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -44,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Calculator.executor": "Run",
     "Python.main.executor": "Run",
     "Python.playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -122,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716786430963</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Change for:&#10;**kwargs: Many keyword arguments&#10;multiple inputs in class">
+      <option name="closed" value="true" />
+      <created>1716787153115</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716787153115</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +147,7 @@
     <MESSAGE value="Change for&#10;Property of label" />
     <MESSAGE value="Change for&#10;Added turtle library for testing" />
     <MESSAGE value="Change for:&#10;**kwargs: Many keyword arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change for:&#10;**kwargs: Many keyword arguments" />
+    <MESSAGE value="Change for:&#10;**kwargs: Many keyword arguments&#10;multiple inputs in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change for:&#10;**kwargs: Many keyword arguments&#10;multiple inputs in class" />
   </component>
 </project>
