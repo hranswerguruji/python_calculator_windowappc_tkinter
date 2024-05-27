@@ -24,3 +24,14 @@ def calculator(p, **kwargs):
 
 
 print(calculator(4, add=10, sub=2, mul=5, div=2))
+
+
+class Car:
+    def __init__(self, **kw):
+        self.model = kw.get("model")
+        self.make = kw.get("make")
+        self.color = kw.get("color")
+
+
+my_car = Car(make="Nissan", color="red")
+print(my_car.color)
