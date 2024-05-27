@@ -106,6 +106,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of calculator program" />
     <MESSAGE value="Change for&#10;1. Setting title&#10;2. Setting width and height" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change for&#10;1. Setting title&#10;2. Setting width and height" />
+    <MESSAGE value="Change for&#10;1. Setting title&#10;2. Setting width and height" />
     <MESSAGE value="Change for&#10;Declare label" />
     <MESSAGE value="Change for&#10;Property of label" />
     <MESSAGE value="Change for&#10;Added turtle library for testing" />
