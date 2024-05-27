@@ -7,7 +7,11 @@ window.minsize(width=500, height=300) # Setting width and height
 
 # Declare label
 lblHeading = tkinter.Label(text="Welcome to calculator program", font=("Arial",20, "bold"))
-lblHeading.pack()
+lblHeading.pack(side="left")
+
+import turtle
+tim = turtle.Turtle()
+tim.write("Hell Santosh")
 
 
 
